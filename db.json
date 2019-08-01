@@ -1,85 +1,85 @@
 {
   "products": [
     {
-      "idNumber": 1324523,
-      "productName": "Green Tea Toothbrush",
+      "idN": 1324523,
+      "name": "Green Tea Toothbrush",
       "description": "Non-Plastic fully recyclable item",
       "price": 3.99,
       "currency": "USD"
     },
     {
-      "idNumber": 254325345,
-      "productName": "Reusable Water Bottle",
+      "id": 254325345,
+      "name": "Reusable Water Bottle",
       "description": "Non-Plastic fully recyclable item",
       "price": 4.99,
       "currency": "USD"
     },
     {
-      "idNumber": 3452345,
-      "productName": "Bamboo Pencils",
+      "id": 3452345,
+      "name": "Bamboo Pencils",
       "description": "Non-Plastic fully recyclable item",
       "price": 6.99,
       "currency": "USD"
     },
     {
-      "idNumber": 43245345,
-      "productName": "Leaf Bottle",
+      "id": 43245345,
+      "name": "Leaf Bottle",
       "description": "Non-Plastic fully recyclable item",
       "price": 8.99,
       "currency": "USD"
     },
     {
-      "idNumber": 5,
-      "productName": "Green Tea Toothbrush",
+      "id": 5,
+      "name": "Green Tea Toothbrush",
       "description": "Non-Plastic fully recyclable item",
       "price": 9.99,
       "currency": "USD"
     },
     {
-      "idNumber": 623452352,
-      "productName": "Ecofriendly T-Shirt",
+      "id": 623452352,
+      "name": "Ecofriendly T-Shirt",
       "description": "Non-Plastic fully recyclable item",
       "price": 2.99,
       "currency": "USD"
     },
     {
-      "idNumber": 753452345,
-      "productName": "Vegan Shampoo",
+      "id": 753452345,
+      "name": "Vegan Shampoo",
       "description": "Non-Plastic fully recyclable item",
       "price": 1.99,
       "currency": "USD"
     },
     {
-      "idNumber": 823452345,
-      "productName": "Zero Waste Laundry Detergent",
+      "id": 823452345,
+      "name": "Zero Waste Laundry Detergent",
       "description": "Non-Plastic fully recyclable item",
       "price": 98.99,
       "currency": "USD"
     },
     {
-      "idNumber": 94352345,
-      "productName": "All Natural Dental Floss",
+      "id": 94352345,
+      "name": "All Natural Dental Floss",
       "description": "Non-Plastic fully recyclable item",
       "price": 33.99,
       "currency": "USD"
     },
     {
-      "idNumber": 104352345,
-      "productName": "Biodegradeable Soap",
+      "id": 104352345,
+      "name": "Biodegradeable Soap",
       "description": "Non-Plastic fully recyclable item",
       "price": 32.99,
       "currency": "USD"
     },
     {
-      "idNumber": 11435245235,
-      "productName": "Organic Lemon Juice Phone Case",
+      "id": 11435245235,
+      "name": "Organic Lemon Juice Phone Case",
       "description": "Non-Plastic fully recyclable item",
       "price": 37.99,
       "currency": "USD"
     },
     {
-      "idNumber": 123452345,
-      "productName": "Zero Waste Kit",
+      "id": 123452345,
+      "name": "Zero Waste Kit",
       "description": "Non-Plastic fully recyclable item",
       "price": 37.99,
       "currency": "USD"
