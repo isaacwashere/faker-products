@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "idN": 1324523,
+      "id": 1324523,
       "name": "Green Tea Toothbrush",
       "description": "Non-Plastic fully recyclable item",
       "price": 3.99,
@@ -29,7 +29,7 @@
       "currency": "USD"
     },
     {
-      "id": 5,
+      "id": 5654643,
       "name": "Green Tea Toothbrush",
       "description": "Non-Plastic fully recyclable item",
       "price": 9.99,
