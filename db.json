@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "idNumber": 1,
+      "productName": "Green Tea Toothbrush",
+      "price": 3.99,
+      "currency": "USD"
+    },
+    {
+      "idNumber": 2,
+      "productName": "Green Tea Toothbrush",
+      "price": 4.99,
+      "currency": "USD"
+    },
+    {
+      "idNumber": 3,
+      "productName": "Green Tea Toothbrush",
+      "price": 6.99,
+      "currency": "USD"
+    },
+    {
+      "idNumber": 4,
+      "productName": "Green Tea Toothbrush",
+      "price": 8.99,
+      "currency": "USD"
+    },
+    {
+      "idNumber": 5,
+      "productName": "Green Tea Toothbrush",
+      "price": 9.99,
+      "currency": "USD"
+    },
+    {
+      "idNumber": 6,
+      "productName": "Green Tea Toothbrush",
+      "price": 2.99,
+      "currency": "USD"
+    },
+    {
+      "idNumber": 7,
+      "productName": "Green Tea Toothbrush",
+      "price": 1.99,
+      "currency": "USD"
+    },
+    {
+      "idNumber": 8,
+      "productName": "Green Tea Toothbrush",
+      "price": 98.99,
+      "currency": "USD"
+    },
+    {
+      "idNumber": 9,
+      "productName": "Green Tea Toothbrush",
+      "price": 33.99,
+      "currency": "USD"
+    },
+    {
+      "idNumber": 10,
+      "productName": "Green Tea Toothbrush",
+      "price": 32.99,
+      "currency": "USD"
+    },
+    {
+      "idNumber": 11,
+      "productName": "Green Tea Toothbrush",
+      "price": 37.99,
+      "currency": "USD"
+    }
+  ]
+}
