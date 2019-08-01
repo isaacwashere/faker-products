@@ -83,6 +83,48 @@
       "description": "Non-Plastic fully recyclable item",
       "price": 37.99,
       "currency": "USD"
+    },
+    {
+      "id": 13880908,
+      "name": "Deluxe Zero Waste Kit",
+      "description": "Non-Plastic fully recyclable item",
+      "price": 67.99,
+      "currency": "USD"
+    },
+    {
+      "id": 140989080,
+      "name": "Organic Cotton Sheets",
+      "description": "Non-Plastic fully recyclable item",
+      "price": 37.95,
+      "currency": "USD"
+    },
+    {
+      "id": 153098095,
+      "name": "Aloe Vera Towel Set (4 Pack)",
+      "description": "Non-Plastic fully recyclable item",
+      "price": 92.99,
+      "currency": "USD"
+    },
+    {
+      "id": 1634590334,
+      "name": "Children's Zero Waste Kit",
+      "description": "Non-Plastic fully recyclable item",
+      "price": 17.99,
+      "currency": "USD"
+    },
+    {
+      "id": 173452543,
+      "name": "Reusable Organic Chair",
+      "description": "Non-Plastic fully recyclable item",
+      "price": 57.99,
+      "currency": "USD"
+    },
+    {
+      "id": 183098046,
+      "name": "How To Be Cool and Stay Green",
+      "description": "Non-Plastic fully recyclable item",
+      "price": 27.99,
+      "currency": "USD"
     }
   ]
 }
